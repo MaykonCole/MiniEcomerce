@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\bin\Debug\net5.0\Ecommerce.Aplicattion.deps.json
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\bin\Debug\net5.0\Ecommerce.Aplicattion.dll
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\bin\Debug\net5.0\ref\Ecommerce.Aplicattion.dll
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\bin\Debug\net5.0\Ecommerce.Aplicattion.pdb
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\obj\Debug\net5.0\Ecommerce.Aplicattion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\obj\Debug\net5.0\Ecommerce.Aplicattion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\obj\Debug\net5.0\Ecommerce.Aplicattion.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\obj\Debug\net5.0\Ecommerce.Aplicattion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\obj\Debug\net5.0\Ecommerce.Aplicattion.dll
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\obj\Debug\net5.0\ref\Ecommerce.Aplicattion.dll
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\obj\Debug\net5.0\Ecommerce.Aplicattion.pdb
+C:\Users\Lenovo\source\repos\MiniEcommerce\Ecommerce.Aplicattion\obj\Debug\net5.0\Ecommerce.Aplicattion.csproj.AssemblyReference.cache

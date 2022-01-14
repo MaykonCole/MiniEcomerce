@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="AutoMapper" Version="11.0.0" />
+	  <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+	  <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.13" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.13">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.Aplicattion\Ecommerce.Applicattion.csproj" />
+    <ProjectReference Include="..\Ecommerce.Core\Ecommerce.Core.csproj" />
+    <ProjectReference Include="..\Ecommerce.Repository\Ecommerce.ApiRepository.csproj" />
+  </ItemGroup>
+
+</Project>

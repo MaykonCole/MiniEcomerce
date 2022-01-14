@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="FluentValidation.AspNetCore" Version="10.3.3" />
+		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="CQRS\Commands\Products\" />
+    <Folder Include="CQRS\Queries\Clients\GetClientByDocument\" />
+    <Folder Include="CQRS\Queries\Clients\GetAllCustomers\" />
+    <Folder Include="CQRS\Queries\Phones\GetPhonesByIdClient\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.Core\Ecommerce.Core.csproj" />
+    <ProjectReference Include="..\Ecommerce.Repository\Ecommerce.ApiRepository.csproj" />
+  </ItemGroup>
+
+
+</Project>
